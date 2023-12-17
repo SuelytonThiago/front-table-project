@@ -92,3 +92,7 @@ p{
 .row:last-child{
     border-bottom: 1px solid #333;
 }
+
+.row .result {
+    padding-left: 5px;
+}
